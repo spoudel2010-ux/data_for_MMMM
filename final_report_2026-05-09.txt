@@ -1,0 +1,114 @@
+AI Agentic Trading System v3.1 — Report
+Generated : 2026-05-09 20:08
+Chunk     : 1
+=========================================================================================================
+Tickers scored: 1000  |  Conviction  A:335  B:3  C:662
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. FTCI      7.41   100%     A  Security     -64.9%    4.6    17.8%  dark_pool_buying     finnhub
+  2. HAFC      7.41   100%     C  Models       -37.6%    2.5    33.0%  neutral              finnhub
+  3. EMR       7.35   100%     C  Infra        -37.4%    2.5    31.3%  neutral              simulated
+  4. ALNT      7.28   100%     C  Distrib      -36.4%    2.9    25.6%  neutral              simulated
+  5. BETR      7.23    99%     A  Infra        -65.1%    2.6    18.1%  dark_pool_buying     simulated
+  6. BRX       7.23    99%     C  Distrib      -41.2%    2.9    21.6%  neutral              finnhub
+  7. CARS      7.23    99%     C  Infra        -40.8%    2.7    24.9%  neutral              simulated
+  8. ALOY      7.22    99%     C  Chips        -39.1%    2.8    20.3%  neutral              simulated
+  9. GRRR      7.22    99%     C  Models       -40.3%    2.7    22.9%  neutral              simulated
+ 10. BUR       7.20    99%     C  Models       -44.8%    2.9    32.7%  neutral              simulated
+ 11. FVRR      7.20    99%     C  Security     -37.5%    2.8    25.8%  neutral              finnhub
+ 12. GAUZ      7.20    99%     C  Data         -44.4%    2.5    28.2%  neutral              finnhub
+ 13. BWEN      7.19    98%     C  Chips        -38.1%    2.6    26.3%  neutral              simulated
+ 14. CLBR      7.19    98%     C  Data         -35.4%    2.8    29.7%  neutral              finnhub
+ 15. CMND      7.19    98%     C  Security     -41.5%    3.2    30.3%  neutral              finnhub
+ 16. EWBC      7.19    98%     C  Security     -42.2%    3.3    25.2%  neutral              finnhub
+ 17. FTV       7.19    98%     C  Data         -43.3%    3.1    26.7%  neutral              finnhub
+ 18. HOV       7.19    98%     C  Models       -37.8%    2.9    29.5%  neutral              finnhub
+ 19. CHKP      7.17    98%     A  Security     -50.8%    2.9    14.5%  dark_pool_buying     finnhub
+ 20. AMST      7.15    98%     A  Chips        -77.3%    2.9    13.6%  low_volume           simulated
+ 21. BX        7.15    98%     C  Data         -42.4%    2.8    22.3%  neutral              simulated
+ 22. CELZ      7.15    98%     C  Energy       -39.4%    3.0    28.5%  neutral              finnhub
+ 23. DMII      7.15    98%     C  Infra        -35.4%    2.6    33.1%  neutral              finnhub
+ 24. FSV       7.15    98%     C  Security     -25.8%    3.0    30.1%  neutral              simulated
+ 25. HCAC      7.15    98%     C  Security     -26.4%    2.8    30.4%  neutral              finnhub
+ 26. CAPNR     7.13    97%     C  Infra        -38.9%    3.3    34.0%  neutral              simulated
+ 27. CUBB      7.13    97%     C  Models       -44.7%    2.9    34.2%  neutral              simulated
+ 28. EMBC      7.13    97%     C  Energy       -44.3%    3.4    25.0%  neutral              simulated
+ 29. FOXF      7.13    97%     C  Energy       -40.3%    2.9    34.6%  neutral              simulated
+ 30. FRMI      7.13    97%     C  Chips        -42.4%    2.9    33.1%  neutral              simulated
+AI Agentic Trading System v3.1 — Report
+Generated : 2026-05-09 20:16
+Chunk     : 2
+=========================================================================================================
+Tickers scored: 1000  |  Conviction  A:322  B:4  C:674
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. OPTU      7.45   100%     A  Data         -61.7%    2.1    43.5%  dark_pool_buying     simulated
+  2. NA        7.41   100%     C  Security     -44.9%    2.5    28.2%  neutral              simulated
+  3. LOT       7.38   100%     A  Data         -52.9%    1.4    20.8%  dark_pool_buying     finnhub
+  4. TARS      7.36   100%     A  Apps         -25.8%    3.6    29.2%  dark_pool_buying     finnhub
+  5. NEWTI     7.35    99%     C  Distrib      -41.8%    2.8    25.5%  neutral              simulated
+  6. UUUU      7.35    99%     C  Energy       -43.7%    2.8    26.8%  neutral              finnhub
+  7. MSFT      7.34    99%     C  Models       -42.6%    2.8    28.6%  neutral              finnhub
+  8. TGL       7.34    99%     C  Data         -36.9%    2.7    28.0%  neutral              simulated
+  9. VIPS      7.34    99%     C  Models       -36.1%    2.7    33.3%  neutral              finnhub
+ 10. XEL       7.27    99%     C  Security     -43.5%    2.8    26.7%  neutral              simulated
+ 11. MGRC      7.23    99%     C  Infra        -44.6%    2.8    22.7%  neutral              simulated
+ 12. VINP      7.23    99%     C  Infra        -35.6%    2.8    21.9%  neutral              finnhub
+ 13. MOBXW     7.19    99%     C  Security     -41.0%    3.1    34.2%  neutral              finnhub
+ 14. TVA       7.19    99%     C  Chips        -35.3%    3.4    28.5%  neutral              simulated
+ 15. PTLO      7.17    98%     A  Distrib      -67.8%    2.3    24.6%  dark_pool_buying     finnhub
+ 16. LHX       7.15    98%     C  Security     -34.7%    2.6    28.4%  neutral              finnhub
+ 17. PODD      7.15    98%     A  Distrib      -56.3%    2.6     9.1%  dark_pool_buying     finnhub
+ 18. WSHP      7.15    98%     C  Distrib      -42.0%    2.5    32.2%  neutral              simulated
+ 19. RDNW      7.13    98%     C  Energy       -42.9%    3.1    27.0%  neutral              simulated
+ 20. STEX      7.13    98%     C  Energy       -37.3%    3.1    32.2%  neutral              finnhub
+ 21. QCOM      7.11    98%     C  Chips        -38.6%    3.2    34.4%  neutral              finnhub
+ 22. WLII      7.11    98%     C  Security     -42.6%    3.4    25.6%  neutral              simulated
+ 23. RIME      7.10    98%     A  Chips        -82.5%    1.8     5.3%  elevated_volume      simulated
+ 24. YSG       7.10    98%     C  Models       -36.6%    2.8    29.4%  neutral              finnhub
+ 25. NJR       7.08    98%     C  Security     -35.5%    2.5    20.1%  neutral              simulated
+ 26. LTH       7.05    97%     C  Data         -41.9%    2.5    32.4%  neutral              simulated
+ 27. MSCI      7.05    97%     C  Distrib      -42.1%    3.5    29.8%  neutral              finnhub
+ 28. RF        7.05    97%     C  Security     -35.5%    3.2    31.3%  neutral              simulated
+ 29. UNCY      7.05    97%     C  Data         -39.5%    3.4    28.8%  neutral              finnhub
+ 30. VSAT      7.05    97%     C  Distrib      -43.4%    3.4    34.5%  neutral              simulated
+AI Agentic Trading System v3.1 — Report
+Generated : 2026-05-09 20:25
+Chunk     : 3
+=========================================================================================================
+Tickers scored: 1001  |  Conviction  A:308  B:6  C:687
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. TMDX      7.45   100%     A  Energy       -54.9%    1.3    29.7%  dark_pool_buying     simulated
+  2. BRN       7.41   100%     C  Security     -41.0%    2.8    30.6%  neutral              simulated
+  3. AZTA      7.38   100%     A  Energy       -53.1%    2.6    19.4%  dark_pool_buying     finnhub
+  4. JFR       7.34    99%     C  Models       -42.7%    2.7    29.0%  neutral              finnhub
+  5. MDCX      7.34    99%     C  Data         -43.6%    2.7    34.9%  neutral              simulated
+  6. KRYS      7.34    99%     C  Data         -44.7%    2.8    25.5%  neutral              finnhub
+  7. SOMN      7.29    99%     C  Chips        -42.0%    2.9    23.7%  neutral              simulated
+  8. USPH      7.26    99%     A  Chips        -35.6%    1.5    20.0%  dark_pool_buying     finnhub
+  9. BJ        7.23    99%     C  Infra        -35.8%    2.5    23.6%  neutral              simulated
+ 10. SPXX      7.23    99%     C  Energy       -36.8%    3.0    22.0%  neutral              simulated
+ 11. SAV       7.20    99%     C  Chips        -41.5%    2.5    27.9%  neutral              simulated
+ 12. CDTG      7.20    99%     C  Models       -42.2%    2.9    34.8%  neutral              finnhub
+ 13. LAES      7.19    99%     C  Data         -42.3%    2.5    32.9%  neutral              finnhub
+ 14. CCXI      7.13    98%     C  Models       -41.7%    2.6    32.5%  neutral              finnhub
+ 15. EIIA      7.13    98%     C  Energy       -39.0%    3.4    29.4%  neutral              finnhub
+ 16. TNL       7.13    98%     C  Models       -39.2%    2.9    27.7%  neutral              finnhub
+ 17. GOCO      7.11    98%     C  Security     -42.3%    3.3    29.6%  neutral              finnhub
+ 18. ELDN      7.10    98%     C  Models       -36.6%    2.6    31.6%  neutral              simulated
+ 19. VNDA      7.10    98%     C  Infra        -37.2%    2.6    26.0%  neutral              finnhub
+ 20. HRI       7.10    98%     C  Models       -36.1%    2.9    30.6%  neutral              finnhub
+ 21. NSSC      7.10    98%     C  Infra        -35.4%    2.8    26.4%  neutral              simulated
+ 22. BZFDW     7.09    98%     C  Distrib      -43.5%    2.8    23.1%  neutral              simulated
+ 23. DMAA      7.09    98%     C  Distrib      -43.5%    2.8    20.0%  neutral              simulated
+ 24. MLECW     7.09    98%     C  Infra        -33.8%    2.9    29.2%  neutral              simulated
+ 25. HCKT      7.08    97%     C  Chips        -39.5%    2.9    21.8%  neutral              simulated
+ 26. TLNC      7.08    97%     C  Security     -25.8%    2.7    28.5%  neutral              finnhub
+ 27. THR       7.07    97%     C  Energy       -39.3%    2.8    26.1%  neutral              finnhub
+ 28. COOTW     7.06    97%     C  Models       -43.2%    3.4    20.7%  neutral              finnhub
+ 29. RNTX      7.06    97%     C  Data         -41.2%    2.6    28.7%  neutral              simulated
+ 30. IMMP      7.06    97%     C  Apps         -37.5%    2.9    20.8%  neutral              finnhub
