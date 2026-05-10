@@ -1,0 +1,114 @@
+AI Agentic Trading System v3.2 — Report
+Generated : 2026-05-10 01:20
+Chunk     : 1
+=========================================================================================================
+Tickers scored: 1000  |  Conviction  A:317  B:3  C:680
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. BETR      7.47   100%     A  Apps         -65.1%    2.6    18.1%  dark_pool_buying     simulated
+  2. ATEC      7.44   100%     A  Chips        -66.8%    2.9    19.3%  dark_pool_buying     simulated
+  3. CING      7.41   100%     C  Data         -41.6%    2.9    33.0%  neutral              simulated
+  4. FTCI      7.35   100%     A  Distrib      -64.9%    4.6    17.8%  dark_pool_buying     simulated
+  5. BEAM      7.34    99%     C  Models       -44.6%    2.6    26.1%  neutral              polygon
+  6. FONR      7.34    99%     C  Chips        -44.4%    2.5    29.8%  neutral              simulated
+  7. BAP       7.29    99%     C  Chips        -40.4%    2.9    24.0%  neutral              simulated
+  8. DOV       7.29    99%     C  Security     -39.5%    2.6    21.6%  neutral              simulated
+  9. FORM      7.29    99%     C  Chips        -39.6%    2.6    22.7%  neutral              simulated
+ 10. FRPT      7.29    99%     A  Apps         -40.8%    1.9    12.8%  dark_pool_buying     simulated
+ 11. BPAC      7.28    99%     C  Energy       -44.9%    2.6    27.8%  neutral              simulated
+ 12. DHR       7.22    99%     C  Data         -38.7%    2.6    22.8%  neutral              simulated
+ 13. AEE       7.20    98%     C  Security     -38.6%    2.7    31.0%  neutral              simulated
+ 14. AEM       7.20    98%     C  Chips        -42.7%    3.0    32.1%  neutral              simulated
+ 15. DV        7.20    98%     C  Security     -41.9%    2.9    31.4%  neutral              simulated
+ 16. CASS      7.18    98%     C  Apps         -38.0%    2.8    33.5%  neutral              simulated
+ 17. CHKP      7.17    98%     A  Security     -50.8%    2.9    14.5%  dark_pool_buying     simulated
+ 18. AWRE      7.16    98%     C  Distrib      -40.7%    2.5    23.0%  neutral              simulated
+ 19. ACMR      7.15    98%     C  Chips        -29.9%    2.6    32.7%  neutral              simulated
+ 20. ALCY      7.15    98%     C  Energy       -42.3%    2.7    31.0%  neutral              simulated
+ 21. CLW       7.15    98%     C  Chips        -28.8%    2.8    27.0%  neutral              simulated
+ 22. FRA       7.15    98%     C  Chips        -42.5%    2.7    23.6%  neutral              simulated
+ 23. GIXXR     7.15    98%     C  Chips        -29.7%    2.6    27.6%  neutral              simulated
+ 24. JOYY      7.15    98%     C  Energy       -39.2%    2.9    28.3%  neutral              simulated
+ 25. FTNT      7.13    97%     C  Security     -35.7%    3.0    27.3%  neutral              simulated
+ 26. HFFG      7.13    97%     C  Security     -44.3%    2.6    31.9%  neutral              simulated
+ 27. BEN       7.11    97%     C  Models       -44.7%    3.3    27.4%  neutral              simulated
+ 28. CBRE      7.11    97%     C  Data         -43.4%    3.1    34.1%  neutral              polygon
+ 29. GE        7.11    97%     C  Security     -36.4%    3.2    31.7%  neutral              simulated
+ 30. ITRI      7.10    97%     C  Infra        -42.1%    2.9    28.8%  neutral              simulated
+AI Agentic Trading System v3.2 — Report
+Generated : 2026-05-10 01:32
+Chunk     : 2
+=========================================================================================================
+Tickers scored: 1000  |  Conviction  A:306  B:5  C:689
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. LOT       7.62   100%     A  Apps         -52.9%    1.4    20.8%  dark_pool_buying     simulated
+  2. TCBIO     7.41   100%     C  Data         -37.8%    2.8    25.1%  neutral              simulated
+  3. SKIN      7.36   100%     A  Chips        -77.9%    2.9    50.0%  dark_pool_buying     simulated
+  4. NTWOW     7.35   100%     C  Distrib      -39.1%    2.9    31.2%  neutral              simulated
+  5. OCCI      7.29   100%     C  Models       -40.7%    2.7    22.4%  neutral              simulated
+  6. PAI       7.28    99%     C  Distrib      -39.8%    2.6    32.0%  neutral              simulated
+  7. VVV       7.23    99%     C  Infra        -44.1%    2.6    22.8%  neutral              simulated
+  8. PODD      7.20    99%     A  Chips        -56.3%    2.6     9.1%  dark_pool_buying     simulated
+  9. MESHW     7.19    99%     C  Chips        -44.2%    3.4    26.5%  neutral              polygon
+ 10. OSCR      7.19    99%     C  Models       -38.7%    3.4    29.3%  neutral              simulated
+ 11. PDYNW     7.19    99%     C  Chips        -42.2%    3.3    31.6%  neutral              simulated
+ 12. RHP       7.19    99%     C  Models       -37.2%    3.4    27.6%  neutral              simulated
+ 13. LSAK      7.15    98%     C  Energy       -38.8%    2.6    28.6%  neutral              simulated
+ 14. ORGNW     7.15    98%     C  Energy       -35.8%    2.6    29.0%  neutral              simulated
+ 15. QTTB      7.15    98%     C  Energy       -35.9%    2.7    33.6%  neutral              simulated
+ 16. PEG       7.13    98%     C  Energy       -38.3%    3.4    31.4%  neutral              simulated
+ 17. RTACU     7.13    98%     C  Energy       -37.4%    3.1    34.0%  neutral              simulated
+ 18. SLMBP     7.13    98%     C  Distrib      -43.5%    2.7    32.0%  neutral              simulated
+ 19. SNOW      7.13    98%     C  Data         -38.7%    2.9    34.9%  neutral              simulated
+ 20. WGSWW     7.13    98%     C  Chips        -35.5%    2.6    26.7%  neutral              simulated
+ 21. MPA       7.12    98%     C  Data         -43.1%    3.0    19.6%  neutral              simulated
+ 22. MFAN      7.11    98%     C  Security     -43.4%    3.5    27.6%  neutral              simulated
+ 23. SRTS      7.11    98%     C  Chips        -36.5%    3.4    34.2%  neutral              simulated
+ 24. NA        7.10    98%     A  Security     -88.9%    3.3    36.0%  dark_pool_buying     polygon
+ 25. NB        7.10    98%     C  Chips        -40.2%    2.5    26.4%  neutral              simulated
+ 26. PSIX      7.09    97%     C  Energy       -40.8%    2.6    25.0%  neutral              simulated
+ 27. VOC       7.09    97%     C  Energy       -32.2%    2.9    30.4%  neutral              simulated
+ 28. TNC       7.08    97%     C  Energy       -38.7%    2.8    29.6%  neutral              simulated
+ 29. LTM       7.06    97%     C  Data         -38.1%    2.5    22.2%  neutral              simulated
+ 30. MD        7.06    97%     C  Data         -45.0%    3.5    22.4%  neutral              simulated
+AI Agentic Trading System v3.2 — Report
+Generated : 2026-05-10 01:40
+Chunk     : 3
+=========================================================================================================
+Tickers scored: 1001  |  Conviction  A:309  B:6  C:686
+
+  #  Ticker   Score Pctile  Conv Layer      Momentum  RSI_E  Borrow Flow                 Source
+---------------------------------------------------------------------------------------------------------
+  1. TMDX      7.69   100%     A  Security     -54.9%    1.3    29.7%  dark_pool_buying     simulated
+  2. WDI       7.41   100%     C  Security     -38.9%    2.7    30.6%  neutral              simulated
+  3. AZTA      7.38   100%     A  Energy       -53.1%    2.6    19.4%  dark_pool_buying     simulated
+  4. DXC       7.37   100%     A  Data         -44.3%    2.3    26.9%  dark_pool_buying     simulated
+  5. ASC       7.35    99%     C  Energy       -36.0%    2.8    29.3%  neutral              simulated
+  6. HSY       7.35    99%     C  Distrib      -41.0%    2.8    32.4%  neutral              simulated
+  7. OBA       7.34    99%     C  Models       -37.4%    2.6    26.6%  neutral              simulated
+  8. YEXT      7.28    99%     C  Energy       -42.8%    2.6    30.9%  neutral              simulated
+  9. MTN       7.28    99%     C  Distrib      -44.1%    2.9    33.6%  neutral              simulated
+ 10. LVS       7.28    99%     C  Distrib      -39.0%    2.9    28.3%  neutral              simulated
+ 11. TRVG      7.23    99%     C  Energy       -44.7%    3.0    21.1%  neutral              simulated
+ 12. BZFDW     7.20    98%     C  Data         -37.8%    2.5    28.7%  neutral              simulated
+ 13. BYAH      7.20    98%     C  Data         -39.2%    3.0    34.4%  neutral              simulated
+ 14. HBM       7.20    98%     C  Chips        -37.9%    2.9    29.9%  neutral              simulated
+ 15. SEM       7.20    98%     C  Security     -39.7%    2.5    32.0%  neutral              simulated
+ 16. XPOF      7.19    98%     C  Chips        -42.8%    3.4    26.9%  neutral              simulated
+ 17. ABUS      7.18    98%     C  Apps         -41.8%    2.5    26.9%  neutral              simulated
+ 18. CLNE      7.15    98%     C  Data         -30.7%    2.8    29.7%  neutral              simulated
+ 19. KEEL      7.14    98%     C  Distrib      -42.9%    2.7    27.9%  neutral              simulated
+ 20. APGE      7.13    98%     C  Energy       -35.1%    3.1    30.6%  neutral              simulated
+ 21. XXII      7.13    98%     C  Models       -40.0%    2.6    25.3%  neutral              simulated
+ 22. FINW      7.11    98%     C  Security     -41.2%    3.4    29.3%  neutral              simulated
+ 23. JACS      7.10    98%     C  Infra        -43.9%    2.7    33.7%  neutral              simulated
+ 24. SONO      7.10    98%     C  Models       -43.2%    2.6    34.9%  neutral              polygon
+ 25. TRDA      7.09    97%     A  Distrib      -57.3%    2.6    13.0%  dark_pool_buying     simulated
+ 26. FLNG      7.09    97%     C  Distrib      -36.4%    2.7    21.7%  neutral              simulated
+ 27. LFST      7.08    97%     C  Security     -36.5%    2.5    23.4%  neutral              polygon
+ 28. THR       7.07    97%     C  Distrib      -43.9%    2.6    28.8%  neutral              simulated
+ 29. CXAI      7.06    97%     C  Security     -41.5%    2.7    34.5%  neutral              simulated
+ 30. TWAV      7.06    97%     C  Chips        -39.1%    3.4    23.8%  neutral              simulated
