@@ -1,0 +1,117 @@
+AI Agentic Trading System v3.4p2 — Report
+Generated : 2026-05-13 02:14
+Chunk     : 1
+===================================================================================================================
+Tickers scored: 1000  |  Conviction  A:49  B:912  C:39
+Layer dist: Energy:71 | Chips:30 | Infra:48 | Data:20 | Models:43 | Apps:3 | Security:5 | Distrib:20 | Other:760
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. ADMA      10.00    7.05    98%     A  Other     Biotechnology                     -61.5%    2.3    11.9%  dark_pool_buying     finnhub
+  2. AMBR      10.00    7.00    98%     B  Data      Software - Infrastructure         -84.0%    2.2    12.1%  low_volume           simulated
+  3. BETR      10.00    6.90    98%     B  Other     Mortgage Finance                  -64.7%    2.9    14.4%  dark_pool_buying     simulated
+  4. BHST      10.00    6.89    98%     B  Other     Packaged Foods                    -69.6%    2.4     5.7%  dark_pool_buying     simulated
+  5. BMBL      10.00    7.09    98%     B  Models    Internet Content & Information    -60.8%    2.4    14.0%  dark_pool_buying     simulated
+  6. CDW       10.00    7.10    98%     B  Infra     Information Technology Servi..    -47.0%    1.2    14.4%  dark_pool_buying     simulated
+  7. CETY      10.00    6.94    98%     B  Other     Specialty Industrial Machinery    -87.0%    5.0     1.0%  dark_pool_buying     simulated
+  8. DAVA      10.00    7.17    98%     B  Data      Software - Infrastructure         -82.2%    1.9    17.3%  dark_pool_buying     simulated
+  9. EPAM      10.00    7.10    98%     B  Infra     Information Technology Servi..    -57.0%    0.2    19.2%  elevated_volume      simulated
+ 10. EXPI      10.00    7.37    98%     B  Other     Real Estate Services              -55.5%    2.9    29.1%  dark_pool_buying     simulated
+ 11. FRPT      10.00    7.28    98%     B  Other     Packaged Foods                    -42.8%    2.0    20.3%  dark_pool_buying     simulated
+ 12. FTCI      10.00    7.13    98%     B  Energy    Solar                             -66.4%    3.7    17.8%  elevated_volume      simulated
+ 13. GDTC      10.00    6.88    98%     B  Other     Biotechnology                     -71.4%    3.4    26.8%  dark_pool_buying     simulated
+ 14. GETY      10.00    6.90    98%     B  Models    Internet Content & Information    -67.9%    2.7    26.9%  neutral              simulated
+ 15. HROW      10.00    6.90    98%     B  Other     Drug Manufacturers - Special..    -47.0%    2.1    38.8%  dark_pool_buying     simulated
+ 16. HYPD      10.00    6.94    98%     B  Other     Biotechnology                     -78.5%    4.1    10.4%  dark_pool_buying     simulated
+ 17. IBP        9.97    6.86    98%     B  Other     Residential Construction          -40.6%    2.0    13.3%  dark_pool_buying     simulated
+ 18. CSTL       9.90    6.84    98%     B  Other     Diagnostics & Research            -56.7%    2.5    13.4%  dark_pool_buying     simulated
+ 19. GOLD       9.90    6.84    98%     B  Distrib   Capital Markets                   -34.0%    2.7    13.8%  elevated_volume      simulated
+ 20. EDBLW      9.78    6.81    98%     B  Other                                       -36.0%    0.0    20.4%  dark_pool_buying     simulated
+ 21. CHTR       9.70    6.79    98%     B  Other     Telecom Services                  -65.4%    1.3    26.9%  neutral              simulated
+ 22. HUBS       9.66    6.78    98%     B  Models    Software - Application            -73.3%    3.2     9.0%  dark_pool_buying     simulated
+ 23. IMSR       9.66    6.78    98%     B  Energy    Utilities - Regulated Electric    -72.8%    4.2     5.8%  dark_pool_buying     simulated
+ 24. JKHY       9.66    6.78    98%     B  Infra     Information Technology Servi..    -24.6%    2.9    17.8%  elevated_volume      simulated
+ 25. HOLOW      9.62    6.77    98%     B  Other                                       -34.7%    0.0    20.8%  dark_pool_buying     simulated
+ 26. DASH       9.55    6.75    97%     B  Other     Internet Retail                   -44.9%    2.4     9.8%  dark_pool_buying     simulated
+ 27. EMBC       9.55    6.75    97%     B  Other     Medical Instruments & Supplies    -77.1%    1.0    24.2%  dark_pool_buying     simulated
+ 28. FWRD       9.55    6.75    97%     B  Other     Integrated Freight & Logistics    -71.5%    1.8    16.7%  dark_pool_buying     simulated
+ 29. HUBCZ      9.55    6.75    97%     B  Other                                       -32.7%    0.0    22.1%  dark_pool_buying     simulated
+ 30. GLIBK      9.47    6.73    97%     B  Other     Telecom Services                  -29.9%    2.8    15.2%  dark_pool_buying     simulated
+AI Agentic Trading System v3.4p2 — Report
+Generated : 2026-05-13 02:37
+Chunk     : 2
+===================================================================================================================
+Tickers scored: 1000  |  Conviction  A:47  B:914  C:39
+Layer dist: Energy:74 | Chips:35 | Infra:38 | Data:18 | Models:48 | Apps:5 | Security:6 | Distrib:23 | Other:753
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. LDOS      10.00    7.13    98%     B  Infra     Information Technology Servi..    -35.4%    1.7     9.2%  dark_pool_buying     simulated
+  2. MDCXW     10.00    6.91    98%     B  Other                                       -87.2%    0.0    16.4%  dark_pool_buying     simulated
+  3. MOBXW     10.00    6.89    98%     B  Other                                       -36.7%    0.0    22.8%  dark_pool_buying     simulated
+  4. MRNOW     10.00    7.04    98%     B  Other                                       -42.1%    0.0    22.9%  dark_pool_buying     simulated
+  5. OPTU      10.00    7.37    98%     B  Other     Telecom Services                  -67.7%    1.4    43.5%  dark_pool_buying     simulated
+  6. OSIS      10.00    7.10    98%     B  Chips     Electronic Components             -26.6%    1.9    25.6%  dark_pool_buying     simulated
+  7. PDYNW     10.00    7.44    98%     B  Other                                       -48.8%    0.0    23.1%  dark_pool_buying     simulated
+  8. PGY       10.00    6.92    98%     B  Data      Software - Infrastructure         -69.1%    4.3    17.0%  dark_pool_buying     simulated
+  9. PRME      10.00    7.06    98%     B  Other     Biotechnology                     -50.5%    2.4    47.4%  dark_pool_buying     simulated
+ 10. PTLO      10.00    7.07    98%     B  Other     Restaurants                       -69.7%    1.6    21.3%  dark_pool_buying     simulated
+ 11. REE       10.00    6.91    98%     B  Other     Auto Parts                        -88.0%    2.1    19.6%  dark_pool_buying     simulated
+ 12. RGNT      10.00    6.89    98%     B  Other     Medical Instruments & Supplies    -72.2%    0.4     6.8%  dark_pool_buying     simulated
+ 13. RIME      10.00    7.18    98%     B  Other     Consumer Electronics              -78.2%    2.6     5.7%  dark_pool_buying     simulated
+ 14. RNAZ      10.00    7.36    98%     B  Other     Biotechnology                     -55.8%    1.3    16.8%  dark_pool_buying     simulated
+ 15. RVLV      10.00    7.20    98%     B  Other     Internet Retail                   -40.6%    1.0    23.0%  dark_pool_buying     simulated
+ 16. SYM       10.00    7.03    98%     B  Other     Specialty Industrial Machinery    -41.2%    2.6    35.3%  dark_pool_buying     simulated
+ 17. TARS      10.00    6.94    98%     B  Other     Biotechnology                     -27.5%    3.9    26.9%  dark_pool_buying     simulated
+ 18. TEM       10.00    6.97    98%     B  Other     Health Information Services       -54.5%    3.2    20.7%  dark_pool_buying     simulated
+ 19. UAA       10.00    6.97    98%     B  Other     Apparel Manufacturing             -38.2%    2.8    23.7%  dark_pool_buying     simulated
+ 20. UPWK      10.00    7.59    98%     B  Models    Internet Content & Information    -62.2%    1.8    30.3%  dark_pool_buying     simulated
+ 21. WGSWW     10.00    7.20    98%     B  Other                                       -40.1%    0.0    20.6%  dark_pool_buying     simulated
+ 22. MNDY       9.99    6.86    98%     B  Data      Software - Application            -77.1%    5.3    16.5%  dark_pool_buying     simulated
+ 23. RC         9.95    6.85    98%     B  Other     REIT - Mortgage                   -59.7%    4.5    35.3%  dark_pool_buying     simulated
+ 24. RCON       9.95    6.85    98%     B  Energy    Oil & Gas Equipment & Services    -83.3%    2.4     1.0%  low_volume           simulated
+ 25. SERA       9.88    6.83    98%     B  Other     Medical Devices                   -58.7%    1.7    29.7%  dark_pool_buying     simulated
+ 26. LFVN       9.76    6.80    97%     B  Other     Packaged Foods                    -63.8%    5.3    50.0%  dark_pool_buying     simulated
+ 27. QUBT       9.76    6.80    97%     B  Models    Computer Hardware                 -52.2%    6.3    19.4%  elevated_volume      simulated
+ 28. LPAAW      9.72    6.79    97%     B  Other                                       -34.1%    0.0    19.3%  dark_pool_buying     simulated
+ 29. KPLT       9.68    6.78    97%     A  Data      Software - Infrastructure         -71.6%    4.4    47.9%  dark_pool_buying     finnhub
+ 30. SBET       9.68    6.78    97%     B  Distrib   Capital Markets                   -90.9%    4.4    13.3%  neutral              simulated
+AI Agentic Trading System v3.4p2 — Report
+Generated : 2026-05-13 02:57
+Chunk     : 3
+===================================================================================================================
+Tickers scored: 1001  |  Conviction  A:47  B:920  C:34
+Layer dist: Energy:47 | Chips:20 | Infra:32 | Data:28 | Models:44 | Apps:4 | Security:1 | Distrib:15 | Other:810
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. ZTS       10.00    7.04    98%     A  Other     Drug Manufacturers - Special..    -54.1%    0.7    10.3%  dark_pool_buying     finnhub
+  2. DXC       10.00    7.44    98%     B  Infra     Information Technology Servi..    -47.5%    2.3    26.9%  dark_pool_buying     simulated
+  3. REVBW     10.00    7.14    98%     B  Other                                       -39.8%    0.0    20.6%  dark_pool_buying     simulated
+  4. RNTX      10.00    6.98    98%     B  Other     Biotechnology                     -52.5%    2.1    12.4%  dark_pool_buying     simulated
+  5. CSAI      10.00    7.50    98%     B  Data      Software - Infrastructure         -83.6%    4.1     7.0%  dark_pool_buying     simulated
+  6. NRDS      10.00    7.58    98%     B  Models    Internet Content & Information    -48.0%    2.4    29.2%  dark_pool_buying     simulated
+  7. NICE      10.00    7.01    98%     B  Models    Software - Application            -51.4%    3.7    16.8%  dark_pool_buying     simulated
+  8. RDAGW     10.00    7.04    98%     B  Other                                       -33.6%    0.0    17.1%  dark_pool_buying     simulated
+  9. COHN      10.00    7.12    98%     B  Distrib   Capital Markets                   -54.7%    2.2     1.0%  elevated_volume      simulated
+ 10. PGYWW     10.00    7.30    98%     B  Other                                       -73.7%    0.0    22.7%  dark_pool_buying     simulated
+ 11. BNZI      10.00    7.19    98%     B  Models    Software - Application            -97.8%    2.6     5.7%  elevated_volume      simulated
+ 12. RZLVW     10.00    6.96    98%     B  Other                                       -29.5%    0.0    16.3%  dark_pool_buying     simulated
+ 13. TMDX      10.00    7.37    98%     B  Other     Medical Devices                   -57.5%    0.4    34.4%  dark_pool_buying     simulated
+ 14. XPOF      10.00    7.06    98%     B  Other     Leisure                           -53.4%    1.8    40.7%  dark_pool_buying     simulated
+ 15. AZTA      10.00    7.30    98%     B  Other     Medical Instruments & Supplies    -57.3%    2.3    23.4%  dark_pool_buying     simulated
+ 16. K         10.00    6.99    98%     C  Other                                       -43.9%    2.7    27.5%  neutral              simulated
+ 17. EU        10.00    7.16    98%     B  Energy    Uranium                           -59.5%    2.5    30.5%  dark_pool_buying     simulated
+ 18. CXAIW     10.00    6.98    98%     B  Other                                       -29.3%    0.0    22.9%  dark_pool_buying     simulated
+ 19. XNDU      10.00    7.24    98%     B  Data      Software - Infrastructure         -37.5%    2.9     3.7%  dark_pool_buying     simulated
+ 20. EVTC       9.88    6.92    98%     B  Data      Software - Infrastructure         -37.2%    2.2    13.1%  dark_pool_buying     simulated
+ 21. HDSN       9.88    6.92    98%     B  Other     Specialty Chemicals               -52.5%    2.7    13.6%  dark_pool_buying     simulated
+ 22. TEAD       9.84    6.91    98%     B  Models    Internet Content & Information    -69.0%    5.9    50.0%  dark_pool_buying     simulated
+ 23. ARQQW      9.84    6.91    98%     B  Other                                       -81.0%    0.0    22.3%  dark_pool_buying     simulated
+ 24. AMWD       9.80    6.90    98%     B  Other     Furnishings, Fixtures & Appl..    -47.8%    2.6    29.8%  dark_pool_buying     simulated
+ 25. WKEY       9.77    6.89    97%     B  Chips     Semiconductors                    -54.8%    5.1    15.4%  dark_pool_buying     simulated
+ 26. KALA       9.77    6.89    97%     B  Other     Biotechnology                     -99.7%    0.8     1.0%  dark_pool_buying     simulated
+ 27. IIIV       9.69    6.87    97%     B  Data      Software - Infrastructure         -42.9%    3.2    34.6%  elevated_volume      simulated
+ 28. CMRC       9.62    6.85    97%     B  Models    Software - Application            -48.1%    4.5    27.6%  dark_pool_buying     simulated
+ 29. VTSI       9.62    6.85    97%     B  Models    Software - Application            -52.3%    0.8     4.1%  dark_pool_buying     simulated
+ 30. PESI       9.58    6.84    97%     B  Other     Waste Management                  -30.4%    2.4    30.9%  dark_pool_buying     simulated
