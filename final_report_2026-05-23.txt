@@ -1,0 +1,117 @@
+AI Agentic Trading System v3.5 — Report
+Generated : 2026-05-23 22:19
+Chunk     : 1
+===================================================================================================================
+Tickers scored: 1000  |  Conviction  A:23  B:298  C:679  | Workers: 5
+Layer dist: Energy:27 | Chips:18 | Infra:26 | Data:10 | Models:23 | Apps:3 | Security:4 | Distrib:10 | Other:879
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. FTNT      10.00    7.29   100%     C  Security                                    -42.8%    3.0    22.9%  neutral              simulated
+  2. FUTU      10.00    7.15   100%     B  Distrib   Capital Markets                   -54.2%    1.8     8.4%  dark_pool_buying     simulated
+  3. INTU       9.85    7.06   100%     B  Models    Software - Application            -60.1%    3.0     9.0%  dark_pool_buying     simulated
+  4. AWK        9.56    6.99   100%     C  Other                                       -44.0%    2.6    31.1%  neutral              simulated
+  5. CTAS       9.56    6.99   100%     C  Other                                       -38.3%    2.7    31.3%  neutral              simulated
+  6. INTC       9.36    6.94    99%     C  Chips                                       -32.2%    2.5    34.5%  neutral              simulated
+  7. CAN        9.28    6.92    99%     B  Infra     Computer Hardware                 -79.8%    2.7    17.2%  neutral              simulated
+  8. ADBE       9.24    6.91    99%     C  Other                                       -36.8%    2.9    34.6%  neutral              finnhub
+  9. HCAC       9.24    6.91    99%     C  Other                                       -42.4%    3.0    27.2%  neutral              simulated
+ 10. EHLD       9.03    6.86    99%     C  Other                                       -37.1%    2.8    22.0%  neutral              simulated
+ 11. FSP        9.03    6.86    99%     C  Other                                       -35.6%    2.8    22.2%  neutral              simulated
+ 12. IONQ       8.99    6.85    99%     C  Models                                      -43.7%    2.9    20.2%  neutral              simulated
+ 13. AWP        8.95    6.84    98%     C  Other                                       -40.5%    2.8    34.4%  neutral              simulated
+ 14. FAX        8.95    6.84    98%     C  Other                                       -35.3%    2.6    30.4%  neutral              simulated
+ 15. FORM       8.95    6.84    98%     C  Chips                                       -42.7%    4.4    32.4%  neutral              simulated
+ 16. GOOG       8.95    6.84    98%     C  Models                                      -42.2%    2.5    24.5%  neutral              simulated
+ 17. APLD       8.91    6.83    98%     C  Infra                                       -35.4%    3.1    16.4%  neutral              simulated
+ 18. ACMR       8.79    6.80    98%     C  Chips                                       -28.4%    3.0    24.8%  neutral              finnhub
+ 19. GMM        8.79    6.80    98%     B  Infra     Information Technology Servi..    -91.0%    2.8     4.2%  dark_pool_buying     simulated
+ 20. CNTB       8.67    6.77    98%     C  Other                                       -35.2%    2.9    28.8%  neutral              simulated
+ 21. ECBK       8.67    6.77    98%     C  Other                                       -41.6%    2.6    30.4%  neutral              simulated
+ 22. HES        8.63    6.76    98%     C  Other                                       -42.7%    2.5    29.2%  neutral              simulated
+ 23. IBP        8.63    6.76    98%     C  Other                                       -35.6%    2.7    32.2%  neutral              simulated
+ 24. APLMW      8.59    6.75    97%     C  Other                                       -42.4%    2.5    32.0%  neutral              simulated
+ 25. CMPR       8.59    6.75    97%     C  Other                                       -35.4%    3.4    29.0%  neutral              simulated
+ 26. IDXX       8.59    6.75    97%     C  Other                                       -37.6%    3.3    25.9%  neutral              simulated
+ 27. GPN        8.55    6.74    97%     C  Distrib                                     -34.9%    3.3    24.9%  neutral              simulated
+ 28. AMAT       8.51    6.73    97%     C  Chips                                       -41.1%    3.5    33.9%  neutral              simulated
+ 29. ASPSW      8.42    6.71    96%     C  Other                                       -40.0%    2.6    22.7%  neutral              simulated
+ 30. ASTC       8.42    6.71    96%     C  Other                                       -28.7%    2.6    34.8%  neutral              simulated
+AI Agentic Trading System v3.5 — Report
+Generated : 2026-05-23 22:22
+Chunk     : 2
+===================================================================================================================
+Tickers scored: 1000  |  Conviction  A:20  B:307  C:673  | Workers: 5
+Layer dist: Energy:39 | Chips:27 | Infra:13 | Data:13 | Models:19 | Apps:5 | Security:6 | Distrib:14 | Other:864
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. RVSN      10.00    7.51   100%     B  Other     Railroads                         -99.3%    1.5    19.7%  dark_pool_buying     simulated
+  2. TSM       10.00    7.20   100%     C  Chips                                       -44.0%    3.0    28.8%  neutral              simulated
+  3. MA         9.55    6.99   100%     C  Distrib                                     -44.4%    3.4    30.4%  neutral              simulated
+  4. NUVB       9.55    6.99   100%     C  Other                                       -38.8%    3.0    26.0%  neutral              simulated
+  5. NEE        9.31    6.93    99%     C  Energy                                      -38.2%    2.5    34.5%  neutral              simulated
+  6. SMR        9.31    6.93    99%     C  Energy                                      -40.2%    2.5    28.6%  neutral              simulated
+  7. LEU        9.22    6.91    99%     C  Energy                                      -38.0%    3.1    25.0%  neutral              simulated
+  8. PASW       9.22    6.91    99%     C  Other                                       -38.0%    2.7    25.2%  neutral              simulated
+  9. SWVL       9.22    6.91    99%     C  Other                                       -38.4%    2.7    28.5%  neutral              simulated
+ 10. WPRT       9.22    6.91    99%     C  Other                                       -43.4%    2.9    29.5%  neutral              simulated
+ 11. MPAA       9.02    6.86    99%     C  Other                                       -36.9%    2.7    20.8%  neutral              simulated
+ 12. NEGG       9.02    6.86    99%     C  Other                                       -39.4%    3.0    24.9%  neutral              simulated
+ 13. PSNL       9.02    6.86    99%     C  Other                                       -43.3%    2.8    24.7%  neutral              simulated
+ 14. SSACR      9.02    6.86    99%     C  Other                                       -37.5%    2.8    21.4%  neutral              simulated
+ 15. RGTI       8.98    6.85    98%     C  Models                                      -28.5%    3.3    25.6%  neutral              simulated
+ 16. NNAVW      8.94    6.84    98%     C  Other                                       -35.3%    2.7    30.9%  neutral              simulated
+ 17. RUBI       8.94    6.84    98%     C  Other                                       -38.5%    3.0    33.2%  neutral              simulated
+ 18. OKTA       8.81    6.81    98%     C  Security                                    -37.1%    3.5    15.4%  neutral              simulated
+ 19. TRUP       8.73    6.79    98%     B  Other     Insurance - Property & Casua..    -61.1%    1.5    28.8%  neutral              simulated
+ 20. MANH       8.69    6.78    98%     C  Other                                       -37.1%    2.7    23.0%  neutral              simulated
+ 21. SBET       8.69    6.78    98%     B  Distrib   Capital Markets                   -92.1%    3.2    11.5%  neutral              simulated
+ 22. OKYO       8.65    6.77    97%     C  Other                                       -40.3%    2.6    29.8%  neutral              simulated
+ 23. OPK        8.65    6.77    97%     C  Other                                       -40.1%    3.0    27.6%  neutral              simulated
+ 24. PBI        8.65    6.77    97%     C  Other                                       -44.9%    3.0    29.0%  neutral              simulated
+ 25. TROW       8.65    6.77    97%     C  Other                                       -36.6%    2.6    26.9%  neutral              simulated
+ 26. WFCF       8.65    6.77    97%     C  Other                                       -38.0%    3.0    31.3%  neutral              simulated
+ 27. SLI        8.61    6.76    97%     C  Other                                       -40.2%    2.9    34.1%  neutral              simulated
+ 28. KG         8.57    6.75    96%     C  Other                                       -41.2%    3.5    27.9%  neutral              finnhub
+ 29. KR         8.57    6.75    96%     C  Other                                       -36.9%    2.7    29.3%  neutral              finnhub
+ 30. MRNOW      8.57    6.75    96%     C  Other                                       -38.4%    3.5    32.6%  neutral              simulated
+AI Agentic Trading System v3.5 — Report
+Generated : 2026-05-23 22:24
+Chunk     : 3
+===================================================================================================================
+Tickers scored: 1001  |  Conviction  A:18  B:300  C:683  | Workers: 5
+Layer dist: Energy:20 | Chips:7 | Infra:12 | Data:7 | Models:16 | Apps:4 | Security:1 | Distrib:5 | Other:929
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. NIU       10.00    7.15   100%     A  Other     Auto Manufacturers                -56.8%    2.1    12.6%  dark_pool_buying     finnhub
+  2. BOX       10.00    7.20   100%     C  Data                                        -36.4%    2.7    31.8%  neutral              simulated
+  3. VMET       9.78    6.99    99%     C  Other                                       -43.1%    3.0    34.8%  neutral              simulated
+  4. CLAR       9.78    6.99    99%     C  Other                                       -37.6%    2.9    26.3%  neutral              simulated
+  5. TCRX       9.78    6.99    99%     C  Other                                       -43.7%    2.9    25.2%  neutral              simulated
+  6. JSPRW      9.78    6.99    99%     C  Other                                       -41.9%    2.7    31.0%  neutral              simulated
+  7. PXS        9.45    6.91    99%     C  Other                                       -35.5%    2.9    34.7%  neutral              simulated
+  8. CBC        9.45    6.91    99%     C  Other                                       -36.0%    2.8    34.5%  neutral              simulated
+  9. QGEN       9.45    6.91    99%     C  Other                                       -41.6%    2.8    33.4%  neutral              simulated
+ 10. TRVG       9.45    6.91    99%     C  Other                                       -38.3%    2.7    27.3%  neutral              simulated
+ 11. AIRS       9.23    6.86    99%     C  Other                                       -37.7%    2.6    24.9%  neutral              simulated
+ 12. BZFDW      9.23    6.86    99%     C  Other                                       -44.3%    3.0    22.7%  neutral              simulated
+ 13. XRX        9.15    6.84    98%     C  Other                                       -38.1%    2.8    26.1%  neutral              simulated
+ 14. J          9.15    6.84    98%     C  Other                                       -44.4%    2.5    33.4%  neutral              simulated
+ 15. BMNR       9.15    6.84    98%     C  Other                                       -36.5%    2.5    34.1%  neutral              simulated
+ 16. LTBR       8.94    6.79    98%     C  Energy                                      -32.6%    3.0    25.3%  neutral              simulated
+ 17. PMTU       8.89    6.78    98%     C  Other                                       -36.5%    2.6    20.3%  neutral              simulated
+ 18. DRVN       8.89    6.78    98%     C  Other                                       -36.7%    2.8    23.7%  neutral              simulated
+ 19. IONS       8.85    6.77    98%     C  Other                                       -36.9%    2.5    33.8%  neutral              simulated
+ 20. CENTA      8.85    6.77    98%     C  Other                                       -40.1%    2.8    34.8%  neutral              simulated
+ 21. DAVEW      8.85    6.77    98%     C  Other                                       -39.0%    3.0    26.5%  neutral              simulated
+ 22. CRBG       8.85    6.77    98%     C  Other                                       -42.8%    2.8    28.5%  neutral              simulated
+ 23. GLU        8.85    6.77    98%     C  Other                                       -41.8%    2.7    31.5%  neutral              simulated
+ 24. PTORW      8.81    6.76    97%     C  Other                                       -36.7%    2.8    29.6%  neutral              simulated
+ 25. IIIV       8.81    6.76    97%     C  Other                                       -37.9%    2.7    27.1%  neutral              simulated
+ 26. CRC        8.81    6.76    97%     C  Other                                       -44.4%    2.8    28.3%  neutral              simulated
+ 27. PAY        8.77    6.75    97%     C  Other                                       -35.2%    3.0    34.8%  neutral              simulated
+ 28. DEA        8.77    6.75    97%     C  Other                                       -44.5%    3.5    28.9%  neutral              simulated
+ 29. GNTA       8.77    6.75    97%     C  Other                                       -37.4%    3.0    33.1%  neutral              simulated
+ 30. ALXO       8.77    6.75    97%     C  Other                                       -37.7%    3.1    34.7%  neutral              simulated
