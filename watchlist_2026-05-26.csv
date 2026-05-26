@@ -1,0 +1,2 @@
+date,chunk,ticker,norm_score,raw_score,percentile,conviction,layer,layer_name,industry,momentum_pct,rsi_euphoria,borrow_fee,flow,price,data_source
+2026-05-26,1,BTM,9.47,6.94,99.2,B,8,Distrib,Capital Markets,-98.9,0.7,2.9,dark_pool_buying,0.49,simulated
