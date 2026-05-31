@@ -33,3 +33,29 @@ date,chunk,ticker,norm_score,raw_score,percentile,conviction,layer,layer_name,in
 2026-05-31,1,D,9.04,5.81,93.4,B,1,Energy,Utilities - Regulated Electric,-1.0,7.5,16.0,elevated_volume,66.94,simulated
 2026-05-31,1,DLR,9.04,5.81,93.4,B,3,Infra,REIT - Specialty,-6.8,4.0,n/a,neutral,190.00,simulated
 2026-05-31,1,ICE,9.04,5.81,93.4,B,8,Distrib,Financial Data & Stock Exchanges,-20.8,3.0,7.2,neutral,147.85,simulated
+2026-05-31,2,LAW,9.90,6.00,95.9,A,5,Models,Software - Application,-55.2,4.7,7.3,low_volume,3.99,finnhub
+2026-05-31,2,MKTX,10.00,6.26,96.3,B,8,Distrib,Capital Markets,-41.6,2.1,14.2,neutral,130.04,simulated
+2026-05-31,2,MNDY,10.00,6.20,96.3,B,4,Data,Software - Application,-73.4,6.4,15.3,neutral,83.62,simulated
+2026-05-31,2,PATH,10.00,6.38,96.3,B,5,Models,Software - Infrastructure,-39.2,6.1,21.0,elevated_volume,11.72,simulated
+2026-05-31,2,PAYX,10.00,6.37,96.3,B,6,Apps,Software - Application,-36.8,6.1,17.7,neutral,96.98,simulated
+2026-05-31,2,PGY,10.00,6.12,96.3,B,4,Data,Software - Infrastructure,-65.5,5.0,14.9,neutral,15.12,simulated
+2026-05-31,2,PLUS,10.00,6.38,96.3,B,5,Models,Software - Application,-11.5,3.6,18.1,dark_pool_buying,82.09,simulated
+2026-05-31,2,RGTI,10.00,7.06,96.3,B,5,Models,Computer Hardware,-54.7,6.4,8.2,dark_pool_buying,25.54,simulated
+2026-05-31,2,S,10.00,6.28,96.3,B,7,Security,Software - Infrastructure,-16.3,5.0,10.4,dark_pool_buying,16.55,simulated
+2026-05-31,2,SERV,10.00,6.31,96.3,B,6,Apps,Specialty Industrial Machinery,-47.1,6.0,21.3,elevated_volume,9.35,simulated
+2026-05-31,2,STRK,10.00,6.41,96.3,B,5,Models,Software - Application,-40.1,0.9,1.0,elevated_volume,70.27,simulated
+2026-05-31,2,TIGR,10.00,6.53,96.3,B,8,Distrib,Capital Markets,-60.4,3.3,9.6,elevated_volume,5.14,simulated
+2026-05-31,2,TLS,10.00,6.03,96.3,B,4,Data,Software - Infrastructure,-38.3,6.1,6.4,elevated_volume,4.79,simulated
+2026-05-31,2,TME,10.00,6.40,96.3,B,5,Models,Internet Content & Information,-64.1,5.0,6.5,neutral,9.22,simulated
+2026-05-31,2,TW,10.00,6.22,96.3,B,8,Distrib,Capital Markets,-31.3,2.8,6.3,elevated_volume,100.25,simulated
+2026-05-31,2,VEEA,10.00,6.73,96.3,B,3,Infra,Information Technology Services,-71.2,5.5,3.7,elevated_volume,0.60,simulated
+2026-05-31,2,VIA,10.00,6.40,96.3,B,5,Models,Software - Application,-71.8,3.8,22.9,neutral,15.23,simulated
+2026-05-31,2,WSHP,10.00,6.17,96.3,B,5,Models,Internet Content & Information,-96.6,3.9,18.7,low_volume,6.71,simulated
+2026-05-31,2,CD,10.00,7.16,96.3,B,8,Distrib,Capital Markets,-77.0,5.9,50.0,elevated_volume,8.23,simulated
+2026-05-31,2,YXT,9.90,6.00,95.9,B,5,Models,Software - Application,-50.9,5.2,1.0,low_volume,0.55,simulated
+2026-05-31,2,LYFT,9.78,5.98,95.3,B,5,Models,Software - Application,-42.6,4.7,21.7,neutral,14.11,simulated
+2026-05-31,2,NOA,9.72,5.97,95.1,B,1,Energy,Oil & Gas Equipment & Services,-23.1,4.1,8.7,dark_pool_buying,13.83,simulated
+2026-05-31,2,PSQH,9.72,5.97,95.1,B,5,Models,Software - Application,-76.9,4.3,1.0,neutral,0.65,simulated
+2026-05-31,2,MAX,9.37,5.91,94.7,B,5,Models,Internet Content & Information,-35.1,4.5,15.9,neutral,8.90,simulated
+2026-05-31,2,LNT,9.31,5.90,94.6,B,1,Energy,Utilities - Regulated Electric,-3.3,4.9,25.9,neutral,71.61,simulated
+2026-05-31,2,TENB,9.19,5.88,94.4,B,7,Security,Software - Infrastructure,-20.4,7.5,16.5,neutral,28.23,simulated
