@@ -1,25 +1,35 @@
 date,chunk,ticker,norm_score,raw_score,percentile,conviction,layer,layer_name,industry,momentum_pct,rsi_euphoria,borrow_fee,flow,price,data_source
-2026-05-31,2,LAW,10.00,6.00,95.4,A,5,Models,Software - Application,-55.2,4.7,7.3,low_volume,3.99,finnhub
-2026-05-31,2,LDOS,10.00,6.17,95.4,A,3,Infra,Information Technology Services,-35.7,4.6,10.2,neutral,127.80,finnhub
-2026-05-31,2,LEU,10.00,6.34,95.4,B,1,Energy,Uranium,-58.1,3.4,18.0,neutral,182.47,simulated
-2026-05-31,2,MCRP,10.00,6.03,95.4,B,3,Infra,Computer Hardware,-39.5,5.0,2.1,elevated_volume,2.66,simulated
-2026-05-31,2,MFI,10.00,6.23,95.4,B,5,Models,Software - Application,-79.7,4.4,8.4,elevated_volume,9.85,simulated
-2026-05-31,2,MKTX,10.00,6.26,95.4,B,8,Distrib,Capital Markets,-41.6,2.1,14.2,neutral,130.04,simulated
-2026-05-31,2,MSTR,10.00,6.06,95.4,B,8,Distrib,Software - Application,-65.1,3.2,8.9,neutral,159.09,simulated
-2026-05-31,2,NCNO,10.00,6.89,95.4,B,5,Models,Software - Application,-50.8,3.7,17.1,elevated_volume,16.08,simulated
-2026-05-31,2,P,10.00,6.15,95.4,B,3,Infra,Computer Hardware,-19.4,5.1,10.3,dark_pool_buying,79.51,simulated
-2026-05-31,2,PGY,10.00,6.12,95.4,B,4,Data,Software - Infrastructure,-65.5,5.0,14.9,neutral,15.12,simulated
-2026-05-31,2,PTC,10.00,6.05,95.4,B,5,Models,Software - Application,-35.9,3.6,9.1,neutral,138.73,simulated
-2026-05-31,2,SMTC,10.00,6.20,95.4,B,2,Chips,Semiconductors,-8.3,6.5,7.2,dark_pool_buying,152.54,simulated
-2026-05-31,2,SNPS,10.00,6.17,95.4,B,2,Chips,Software - Infrastructure,-26.3,3.4,8.7,dark_pool_buying,475.62,simulated
-2026-05-31,2,SOUN,10.00,6.02,95.4,B,5,Models,Software - Application,-57.9,5.2,22.4,neutral,9.00,simulated
-2026-05-31,2,SRAD,10.00,6.23,95.4,B,5,Models,Software - Application,-58.4,5.3,5.3,low_volume,13.21,simulated
-2026-05-31,2,TEAM,10.00,6.24,95.4,B,5,Models,Software - Application,-51.3,6.5,8.9,neutral,107.61,simulated
-2026-05-31,2,TYL,10.00,6.05,95.4,B,5,Models,Software - Application,-48.8,4.4,10.8,neutral,313.15,simulated
-2026-05-31,2,VEEA,10.00,6.73,95.4,B,3,Infra,Information Technology Services,-71.2,5.5,3.7,elevated_volume,0.60,simulated
-2026-05-31,2,VIA,10.00,6.40,95.4,B,5,Models,Software - Application,-71.8,3.8,22.9,neutral,15.23,simulated
-2026-05-31,2,CD,10.00,7.16,95.4,B,8,Distrib,Capital Markets,-77.0,5.9,50.0,elevated_volume,8.23,simulated
-2026-05-31,2,LYFT,9.94,5.98,95.3,B,5,Models,Software - Application,-42.6,4.7,21.7,neutral,14.11,simulated
-2026-05-31,2,PRAA,9.82,5.96,95.2,B,3,Infra,Credit Services,-31.4,2.0,5.5,neutral,15.26,simulated
-2026-05-31,2,MAX,9.52,5.91,94.9,B,5,Models,Internet Content & Information,-35.1,4.5,15.9,neutral,8.90,simulated
-2026-05-31,2,MU,9.10,5.84,93.6,B,2,Chips,Semiconductors,+0.0,7.0,2.9,neutral,971.00,simulated
+2026-05-31,1,AI,10.00,6.71,96.4,B,5,Models,Software - Infrastructure,-63.1,6.1,35.8,elevated_volume,10.77,simulated
+2026-05-31,1,ALIT,10.00,5.97,96.4,B,5,Models,Software - Application,-83.8,5.1,9.5,neutral,0.94,simulated
+2026-05-31,1,AMST,10.00,6.61,96.4,B,5,Models,Software - Application,-63.6,5.9,3.3,low_volume,1.41,simulated
+2026-05-31,1,ANY,10.00,6.10,96.4,B,8,Distrib,Capital Markets,-81.9,5.2,3.0,low_volume,1.90,simulated
+2026-05-31,1,ATO,10.00,6.52,96.4,B,1,Energy,Utilities - Regulated Gas,-11.5,2.8,9.7,dark_pool_buying,169.13,simulated
+2026-05-31,1,BMBL,10.00,6.03,96.4,B,5,Models,Internet Content & Information,-63.0,3.0,12.8,low_volume,3.17,simulated
+2026-05-31,1,BTBT,10.00,6.03,96.4,B,3,Infra,Capital Markets,-52.1,5.7,11.1,neutral,2.02,simulated
+2026-05-31,1,BTCS,10.00,6.65,96.4,B,8,Distrib,Capital Markets,-75.8,1.8,9.3,low_volume,1.57,simulated
+2026-05-31,1,BTM,10.00,6.19,96.4,B,8,Distrib,Capital Markets,-99.6,0.8,2.9,low_volume,0.49,simulated
+2026-05-31,1,CAN,10.00,6.20,96.4,B,3,Infra,Computer Hardware,-79.9,3.0,16.6,neutral,0.41,simulated
+2026-05-31,1,DAVA,10.00,6.58,96.4,B,4,Data,Software - Infrastructure,-81.0,2.6,17.2,neutral,3.22,simulated
+2026-05-31,1,DTSS,10.00,5.98,96.4,B,4,Data,Software - Infrastructure,-64.4,3.8,1.0,neutral,0.84,simulated
+2026-05-31,1,FTI,10.00,6.01,96.4,B,1,Energy,Oil & Gas Equipment & Services,-11.1,4.5,7.7,dark_pool_buying,68.42,simulated
+2026-05-31,1,HTCR,10.00,6.23,96.4,B,5,Models,Software - Application,-83.5,6.3,2.5,elevated_volume,3.62,simulated
+2026-05-31,1,HUBS,10.00,6.12,96.4,B,5,Models,Software - Application,-63.8,6.3,11.4,neutral,220.63,simulated
+2026-05-31,1,JCAP,10.00,6.21,96.4,B,3,Infra,Credit Services,-25.4,1.2,9.1,neutral,16.99,simulated
+2026-05-31,1,GAUZ,9.90,5.95,96.3,B,2,Chips,Electronic Components,-92.7,6.0,1.0,low_volume,0.70,simulated
+2026-05-31,1,BTDR,9.84,5.94,96.1,B,3,Infra,Software - Application,-32.5,6.8,29.5,elevated_volume,17.49,simulated
+2026-05-31,1,AIXC,9.65,5.91,95.8,B,4,Data,Software - Infrastructure,-78.7,4.5,3.7,neutral,1.28,simulated
+2026-05-31,1,AVA,9.59,5.90,95.3,B,1,Energy,Utilities - Diversified,-1.4,6.3,15.2,elevated_volume,41.47,simulated
+2026-05-31,1,CXM,9.59,5.90,95.3,B,5,Models,Software - Application,-40.3,6.0,16.4,low_volume,5.58,simulated
+2026-05-31,1,ES,9.59,5.90,95.3,B,1,Energy,Utilities - Regulated Electric,-8.4,6.2,10.9,elevated_volume,68.27,simulated
+2026-05-31,1,FTS,9.59,5.90,95.3,B,1,Energy,Utilities - Regulated Electric,-4.7,4.7,50.0,neutral,55.33,simulated
+2026-05-31,1,ILLR,9.47,5.88,95.0,B,5,Models,Software - Application,-84.1,4.5,1.7,low_volume,0.24,simulated
+2026-05-31,1,EVR,9.41,5.87,94.9,B,8,Distrib,Capital Markets,-10.6,5.0,5.4,neutral,340.86,simulated
+2026-05-31,1,CAMT,9.29,5.85,94.7,B,2,Chips,Semiconductor Equipment & Materials,-17.3,3.3,18.9,neutral,171.66,simulated
+2026-05-31,1,CTSH,9.22,5.84,94.2,B,3,Infra,Information Technology Services,-34.9,6.2,19.9,neutral,55.76,simulated
+2026-05-31,1,FICO,9.16,5.83,94.0,B,5,Models,Software - Application,-35.1,6.8,14.3,neutral,1250.59,simulated
+2026-05-31,1,INUV,9.16,5.83,94.0,B,5,Models,Software - Application,-72.8,3.9,6.6,neutral,1.60,simulated
+2026-05-31,1,APLD,9.10,5.82,93.8,B,3,Infra,Information Technology Services,-4.8,5.8,17.3,neutral,47.28,simulated
+2026-05-31,1,CNCK,9.10,5.82,93.8,B,8,Distrib,Capital Markets,-76.4,5.1,2.4,low_volume,1.86,simulated
+2026-05-31,1,D,9.04,5.81,93.4,B,1,Energy,Utilities - Regulated Electric,-1.0,7.5,16.0,elevated_volume,66.94,simulated
+2026-05-31,1,DLR,9.04,5.81,93.4,B,3,Infra,REIT - Specialty,-6.8,4.0,n/a,neutral,190.00,simulated
+2026-05-31,1,ICE,9.04,5.81,93.4,B,8,Distrib,Financial Data & Stock Exchanges,-20.8,3.0,7.2,neutral,147.85,simulated
