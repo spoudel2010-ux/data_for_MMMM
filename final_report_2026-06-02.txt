@@ -1,0 +1,195 @@
+AI Agentic Trading System v3.8 — Report
+Generated : 2026-06-02 22:42
+Chunk     : 1
+===================================================================================================================
+Tickers scored: 989  |  Conviction  A:17  B:313  C:659  | Workers: 5
+Actionable (A+B): 330  |  Suppressed (C, simulated noise): 659
+Layer dist: Energy:31 | Chips:20 | Infra:24 | Data:10 | Models:25 | Apps:3 | Security:4 | Distrib:8 | Other:864
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. AAPG      10.00    6.87    96%     A  Other     Biotechnology                     -61.5%    3.6     1.0%  dark_pool_buying     finnhub
+  2. ADMA      10.00    6.15    96%     A  Other     Biotechnology                     -65.2%    2.8     9.7%  low_volume           finnhub
+  3. ADTN      10.00    6.15    96%     A  Infra     Communication Equipment            -5.9%    6.4    14.8%  dark_pool_buying     finnhub
+  4. AMST      10.00    6.61    96%     B  Models    Software - Application            -64.1%    6.0     3.3%  low_volume           simulated
+  5. AREN      10.00    6.26    96%     B  Models    Internet Content & Information    -79.8%    3.4    20.0%  neutral              simulated
+  6. ATO       10.00    6.52    96%     B  Energy    Utilities - Regulated Gas         -11.7%    2.7     9.7%  dark_pool_buying     simulated
+  7. AVX       10.00    6.61    96%     B  Data      Software - Infrastructure         -96.1%    4.8     1.6%  low_volume           simulated
+  8. BILI      10.00    6.29    96%     B  Models    Internet Content & Information    -48.1%    3.7    16.6%  neutral              simulated
+  9. BNKK      10.00    6.50    96%     B  Other     Asset Management                  -95.4%    3.8     8.4%  elevated_volume      simulated
+ 10. BNTC      10.00    6.28    96%     B  Other     Biotechnology                     -36.1%    3.3    50.0%  neutral              simulated
+ 11. BTQ       10.00    6.15    96%     B  Data      Software - Infrastructure         -67.5%    7.1     7.6%  elevated_volume      simulated
+ 12. CAN       10.00    6.20    96%     B  Infra     Computer Hardware                 -80.8%    3.1    16.6%  neutral              simulated
+ 13. CBRE      10.00    6.24    96%     B  Other     Real Estate Services              -25.5%    2.3     5.2%  dark_pool_buying     simulated
+ 14. CASY      10.00    6.28    96%     B  Other     Specialty Retail                  -15.1%    1.9     7.9%  dark_pool_buying     simulated
+ 15. CHTR      10.00    6.37    96%     B  Other     Telecom Services                  -66.5%    4.1    27.4%  neutral              simulated
+ 16. CMND      10.00    6.14    96%     B  Other     Biotechnology                     -99.4%    2.9     1.0%  elevated_volume      simulated
+ 17. COSM      10.00    6.80    96%     B  Other     Medical Distribution              -79.1%    2.8     2.2%  dark_pool_buying     simulated
+ 18. DQ        10.00    6.10    96%     B  Chips     Semiconductor Equipment & Ma..    -52.9%    3.3     9.8%  neutral              simulated
+ 19. ELAB      10.00    6.33    96%     B  Other     Biotechnology                     -99.2%    4.1     3.2%  dark_pool_buying     simulated
+ 20. ENOV      10.00    6.15    96%     B  Other     Medical Devices                   -39.0%    3.0    23.9%  neutral              simulated
+ 21. EXPI      10.00    6.79    96%     B  Other     Real Estate Services              -58.9%    2.4    29.1%  neutral              simulated
+ 22. FIGR      10.00    6.47    96%     B  Distrib   Capital Markets                   -56.6%    3.2     7.7%  low_volume           simulated
+ 23. FSP       10.00    6.65    96%     B  Other     REIT - Office                     -69.3%    5.6    27.2%  elevated_volume      simulated
+ 24. GLSI      10.00    6.12    96%     B  Other     Biotechnology                     -27.6%    4.9    34.5%  dark_pool_buying     simulated
+ 25. GMM       10.00    6.87    96%     B  Infra     Information Technology Servi..    -95.8%    2.3     1.0%  dark_pool_buying     simulated
+ 26. GOSS      10.00    6.52    96%     B  Other     Biotechnology                     -94.7%    2.6    27.6%  elevated_volume      simulated
+ 27. GRAB      10.00    6.05    96%     B  Models    Software - Application            -44.2%    4.6    12.2%  neutral              simulated
+ 28. HBNB      10.00    6.14    96%     B  Other     Real Estate Services              -58.5%    2.6     1.6%  neutral              simulated
+ 29. IDN       10.00    6.39    96%     B  Models    Software - Application            -51.9%    1.7     4.1%  neutral              simulated
+ 30. IMNN      10.00    6.66    96%     B  Other     Biotechnology                     -91.4%    1.9    11.2%  dark_pool_buying     simulated
+
+--- Conviction C tickers (659 total) — simulated data, not actionable ---
+  #  Ticker  NormScr Layer      Momentum Flow                
+----------------------------------------------------------------------
+  1. ACMR       6.39 Chips           n/a  neutral             
+  2. AEHR       6.39 Chips           n/a  neutral             
+  3. AI         6.39 Models          n/a  neutral             
+  4. AKAM       6.39 Security        n/a  neutral             
+  5. AMZN       6.39 Models          n/a  neutral             
+  6. ARM        6.39 Chips           n/a  neutral             
+  7. ASML       6.39 Chips           n/a  neutral             
+  8. BBAI       6.39 Models          n/a  neutral             
+  9. BIDU       6.39 Models          n/a  neutral             
+ 10. CAMT       6.39 Chips           n/a  neutral             
+ 11. CDNS       6.39 Chips           n/a  neutral             
+ 12. CHKP       6.39 Security        n/a  neutral             
+ 13. CRWD       6.39 Security        n/a  neutral             
+ 14. ENTG       6.39 Chips           n/a  neutral             
+ 15. FORM       6.39 Chips           n/a  neutral             
+ 16. FTNT       6.39 Security        n/a  neutral             
+ 17. HUBS       6.39 Models          n/a  neutral             
+ 18. IONQ       6.39 Models          n/a  neutral             
+ 19. APP        6.04 Apps            n/a  neutral             
+ 20. BE         6.04 Energy          n/a  neutral             
+  ... and 639 more Conviction C tickers
+AI Agentic Trading System v3.8 — Report
+Generated : 2026-06-02 22:44
+Chunk     : 2
+===================================================================================================================
+Tickers scored: 989  |  Conviction  A:17  B:307  C:665  | Workers: 5
+Actionable (A+B): 324  |  Suppressed (C, simulated noise): 665
+Layer dist: Energy:31 | Chips:25 | Infra:17 | Data:9 | Models:22 | Apps:5 | Security:7 | Distrib:14 | Other:859
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. KG        10.00    6.41    96%     A  Other     Insurance - Reinsurance           -61.1%    5.3    32.5%  low_volume           finnhub
+  2. MGF       10.00    6.13    96%     B  Other     Asset Management                   -5.7%    2.5     1.0%  dark_pool_buying     simulated
+  3. MIAX      10.00    6.22    96%     B  Distrib   Capital Markets                   -25.2%    2.6     8.9%  elevated_volume      simulated
+  4. MRNOW     10.00    6.41    96%     B  Other                                       -50.3%    0.0      n/a  dark_pool_buying     simulated
+  5. MVSTW     10.00    6.51    96%     B  Other                                       -75.3%    0.0      n/a  dark_pool_buying     simulated
+  6. NXPLW     10.00    6.51    96%     B  Other                                       -95.7%    0.0      n/a  dark_pool_buying     simulated
+  7. NWL       10.00    6.48    96%     B  Other     Household & Personal Products     -46.1%    1.6    20.3%  neutral              simulated
+  8. NXTC      10.00    6.66    96%     B  Other     Biotechnology                     -76.2%    1.9     2.9%  dark_pool_buying     simulated
+  9. NYXH      10.00    6.34    96%     B  Other     Medical Instruments & Supplies    -64.1%    4.6    30.6%  low_volume           simulated
+ 10. OGEN      10.00    6.18    96%     B  Other     Biotechnology                     -87.6%    5.8    33.0%  elevated_volume      simulated
+ 11. ORGNW     10.00    6.73    96%     B  Other                                       -86.3%    0.0      n/a  dark_pool_buying     simulated
+ 12. PGY       10.00    6.12    96%     B  Data      Software - Infrastructure         -65.1%    6.4    14.9%  neutral              simulated
+ 13. PSFE      10.00    6.15    96%     B  Data      Software - Infrastructure         -49.3%    3.8    28.9%  neutral              simulated
+ 14. QUBT      10.00    6.40    96%     B  Models    Computer Hardware                 -50.2%    5.2    14.8%  neutral              simulated
+ 15. RCON      10.00    6.64    96%     B  Energy    Oil & Gas Equipment & Services    -86.0%    3.1     2.1%  neutral              simulated
+ 16. REKR      10.00    6.17    96%     B  Data      Software - Infrastructure         -73.9%    5.3    15.2%  low_volume           simulated
+ 17. RENT      10.00    6.22    96%     B  Other     Apparel Retail                    -60.4%    3.5    32.4%  neutral              simulated
+ 18. RENX      10.00    6.22    96%     B  Other     Real Estate - Development         -95.7%    3.5     3.3%  neutral              simulated
+ 19. RNAZ      10.00    6.61    96%     B  Other     Biotechnology                     -65.3%    2.7    16.8%  elevated_volume      simulated
+ 20. SBCWW     10.00    6.13    96%     B  Other                                       -48.1%    0.0      n/a  dark_pool_buying     simulated
+ 21. SBFMW     10.00    6.35    96%     B  Other                                       -44.8%    0.0      n/a  dark_pool_buying     simulated
+ 22. SBET      10.00    7.01    96%     B  Distrib   Capital Markets                   -90.2%    2.8    11.2%  neutral              simulated
+ 23. SBRA      10.00    6.08    96%     B  Other     REIT - Healthcare Facilities      -11.8%    2.0    40.7%  neutral              simulated
+ 24. SNPS      10.00    6.17    96%     B  Chips     Software - Infrastructure         -21.2%    4.8     8.7%  dark_pool_buying     simulated
+ 25. SRPT      10.00    6.23    96%     B  Other     Biotechnology                     -62.2%    2.7    29.4%  neutral              simulated
+ 26. SSTK      10.00    6.90    96%     B  Models    Internet Content & Information    -46.1%    2.9    12.5%  dark_pool_buying     simulated
+ 27. STEX      10.00    6.33    96%     B  Distrib   Capital Markets                   -89.7%    6.3    13.7%  neutral              simulated
+ 28. STRK      10.00    6.81    96%     B  Models    Software - Application            -40.5%    1.6     1.0%  dark_pool_buying     simulated
+ 29. SUPN      10.00    6.09    96%     B  Other     Drug Manufacturers - Special..    -22.7%    2.3    19.5%  neutral              simulated
+ 30. TIGR      10.00    6.27    96%     B  Distrib   Capital Markets                   -61.7%    3.4     9.6%  neutral              simulated
+
+--- Conviction C tickers (665 total) — simulated data, not actionable ---
+  #  Ticker  NormScr Layer      Momentum Flow                
+----------------------------------------------------------------------
+  1. KLAC       6.33 Chips           n/a  neutral             
+  2. LRCX       6.33 Chips           n/a  neutral             
+  3. META       6.33 Models          n/a  neutral             
+  4. MKSI       6.33 Chips           n/a  neutral             
+  5. MRVL       6.33 Chips           n/a  neutral             
+  6. MU         6.33 Chips           n/a  neutral             
+  7. NOW        6.33 Models          n/a  neutral             
+  8. NVDA       6.33 Chips           n/a  neutral             
+  9. NXPI       6.33 Chips           n/a  neutral             
+ 10. OKTA       6.33 Security        n/a  neutral             
+ 11. ONTO       6.33 Chips           n/a  neutral             
+ 12. PANW       6.33 Security        n/a  neutral             
+ 13. PATH       6.33 Models          n/a  neutral             
+ 14. PLTR       6.33 Models          n/a  neutral             
+ 15. QBTS       6.33 Models          n/a  neutral             
+ 16. QCOM       6.33 Chips           n/a  neutral             
+ 17. RGTI       6.33 Models          n/a  neutral             
+ 18. S          6.33 Security        n/a  neutral             
+ 19. SAIL       6.33 Security        n/a  neutral             
+ 20. SMTC       6.33 Chips           n/a  neutral             
+  ... and 645 more Conviction C tickers
+AI Agentic Trading System v3.8 — Report
+Generated : 2026-06-02 22:47
+Chunk     : 3
+===================================================================================================================
+Tickers scored: 990  |  Conviction  A:19  B:318  C:653  | Workers: 5
+Actionable (A+B): 337  |  Suppressed (C, simulated noise): 653
+Layer dist: Energy:14 | Chips:6 | Infra:9 | Data:12 | Models:22 | Apps:4 | Distrib:6 | Other:917
+
+  #  Ticker  NormScr  RawScr Pctile  Conv Layer     Industry                        Momentum  RSI_E  Borrow Flow                 Source
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  1. GXAI      10.00    6.41    96%     A  Other     Electronic Gaming & Multimedia    -50.7%    6.5     1.0%  elevated_volume      finnhub
+  2. GLOO      10.00    6.35    96%     A  Models    Software - Application            -42.3%    4.3     2.5%  neutral              finnhub
+  3. RXST      10.00    6.22    96%     A  Other     Medical Devices                   -68.8%    3.8    20.3%  elevated_volume      finnhub
+  4. NIU       10.00    7.15    96%     A  Other     Auto Manufacturers                -59.7%    2.0    13.4%  dark_pool_buying     finnhub
+  5. GYRE      10.00    6.39    96%     A  Other     Biotechnology                     -38.2%    1.3    50.0%  neutral              finnhub
+  6. CXAI      10.00    6.30    96%     B  Models    Software - Application            -81.9%    6.4     6.1%  elevated_volume      simulated
+  7. PCTY      10.00    6.23    96%     B  Apps      Software - Application            -39.5%    6.4    10.9%  neutral              simulated
+  8. OPFI      10.00    6.57    96%     B  Infra     Credit Services                   -42.8%    2.9    13.1%  neutral              simulated
+  9. SITC      10.00    6.22    96%     B  Other     REIT - Retail                     -31.2%    1.8    19.6%  elevated_volume      simulated
+ 10. INTS      10.00    6.22    96%     B  Other     Biotechnology                     -87.0%    2.3     6.6%  elevated_volume      simulated
+ 11. LNZA      10.00    6.66    96%     B  Other     Waste Management                  -89.8%    0.6     5.8%  dark_pool_buying     simulated
+ 12. LTBR      10.00    6.20    96%     B  Energy    Electrical Equipment & Parts      -56.2%    3.9    14.5%  neutral              simulated
+ 13. YOUL      10.00    6.33    96%     B  Other     Education & Training Services     -89.2%    3.9     6.9%  dark_pool_buying     simulated
+ 14. FFAIW     10.00    6.28    96%     B  Other                                       -46.6%    0.0      n/a  dark_pool_buying     simulated
+ 15. PHR       10.00    6.28    96%     B  Other     Health Information Services       -68.2%    6.0     8.5%  elevated_volume      simulated
+ 16. BNZIW     10.00    6.35    96%     B  Other                                       -46.5%    0.0      n/a  dark_pool_buying     simulated
+ 17. CRDO      10.00    6.17    96%     B  Chips     Semiconductors                     -3.0%    6.1     6.4%  elevated_volume      simulated
+ 18. NAVI      10.00    6.48    96%     B  Infra     Credit Services                   -45.7%    4.6    29.8%  elevated_volume      simulated
+ 19. TIC       10.00    6.67    96%     B  Other     Specialty Business Services       -42.7%    1.7    17.7%  neutral              simulated
+ 20. LX        10.00    6.72    96%     B  Infra     Credit Services                   -66.5%    6.1    10.2%  dark_pool_buying     simulated
+ 21. COHN      10.00    6.47    96%     B  Distrib   Capital Markets                   -59.0%    3.9     1.1%  low_volume           simulated
+ 22. OGS       10.00    6.09    96%     B  Energy    Utilities - Regulated Gas         -13.8%    2.6    16.8%  elevated_volume      simulated
+ 23. DBVT      10.00    6.44    96%     B  Other     Biotechnology                     -25.7%    2.9    23.7%  dark_pool_buying     simulated
+ 24. TRI       10.00    6.14    96%     B  Other     Specialty Business Services       -58.1%    5.0    15.3%  neutral              simulated
+ 25. IIIV      10.00    6.26    96%     B  Data      Software - Infrastructure         -39.3%    6.2    33.7%  neutral              simulated
+ 26. LUCYW     10.00    6.35    96%     B  Other                                       -65.8%    5.8      n/a  elevated_volume      simulated
+ 27. IMTE      10.00    6.09    96%     B  Chips     Electronic Components             -62.5%    4.8     2.7%  low_volume           simulated
+ 28. DSX       10.00    6.16    96%     B  Other     Marine Shipping                   -17.6%    2.7    15.1%  dark_pool_buying     simulated
+ 29. KDK       10.00    6.27    96%     B  Data      Software - Infrastructure         -36.1%    2.8    20.8%  neutral              simulated
+ 30. VSEE      10.00    6.33    96%     B  Other     Health Information Services       -87.9%    5.0     3.9%  dark_pool_buying     simulated
+
+--- Conviction C tickers (653 total) — simulated data, not actionable ---
+  #  Ticker  NormScr Layer      Momentum Flow                
+----------------------------------------------------------------------
+  1. RXRX       6.43 Models          n/a  neutral             
+  2. AXTI       6.43 Chips           n/a  neutral             
+  3. DUOL       6.10 Apps            n/a  neutral             
+  4. BOX        6.10 Data            n/a  neutral             
+  5. BILL       6.10 Data            n/a  neutral             
+  6. SAIC       6.10 Apps            n/a  neutral             
+  7. FROG       6.10 Apps            n/a  neutral             
+  8. SZZLR      5.43 Other           n/a  neutral             
+  9. GRMLW      5.43 Other           n/a  neutral             
+ 10. PTON       4.16 Other           n/a  neutral             
+ 11. AN         4.16 Other           n/a  neutral             
+ 12. AMPGZ      4.16 Other           n/a  neutral             
+ 13. CAAS       4.16 Other           n/a  neutral             
+ 14. GJR        4.16 Other           n/a  neutral             
+ 15. TDUP       4.16 Other           n/a  neutral             
+ 16. ALRS       4.16 Other           n/a  neutral             
+ 17. FMX        4.16 Other           n/a  neutral             
+ 18. ACLS       4.16 Other           n/a  neutral             
+ 19. DSGR       4.16 Other           n/a  neutral             
+ 20. PUMP       4.16 Other           n/a  neutral             
+  ... and 633 more Conviction C tickers
