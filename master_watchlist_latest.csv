@@ -1,33 +1,32 @@
 date,chunk,ticker,norm_score,raw_score,percentile,conviction,layer,layer_name,industry,momentum_pct,rsi_euphoria,borrow_fee,flow,price,data_source
-2026-06-07,2,LDOS,10.00,6.17,96.1,A,3,Infra,Information Technology Services,-37.3,5.2,10.2,neutral,124.43,polygon
-2026-06-07,2,LEU,10.00,6.26,96.1,A,1,Energy,Uranium,-62.9,4.0,18.0,neutral,161.78,polygon
-2026-06-07,2,MKTX,10.00,6.52,96.1,A,8,Distrib,Capital Markets,-47.5,1.6,14.2,elevated_volume,116.93,polygon
-2026-06-07,2,MOMO,10.00,6.68,96.1,A,5,Models,Internet Content & Information,-35.6,3.2,12.7,dark_pool_buying,5.61,polygon
-2026-06-07,2,MSTR,10.00,6.87,96.1,A,8,Distrib,Software - Application,-73.6,1.4,8.9,dark_pool_buying,120.44,polygon
-2026-06-07,2,MU,10.00,6.06,96.1,A,2,Chips,Semiconductors,-20.0,6.0,2.9,neutral,864.01,polygon
-2026-06-07,2,NOG,10.00,6.10,96.1,A,1,Energy,Oil & Gas E&P,-30.9,2.5,21.9,neutral,20.98,polygon
-2026-06-07,2,PGY,10.00,6.12,96.1,A,4,Data,Software - Infrastructure,-66.8,5.5,14.9,neutral,14.56,finnhub
-2026-06-07,2,PI,10.00,6.14,96.1,A,2,Chips,Semiconductors,-50.0,3.8,16.9,neutral,120.93,finnhub
-2026-06-07,2,PSFE,10.00,6.41,96.1,A,4,Data,Software - Infrastructure,-53.0,3.8,28.9,neutral,6.90,finnhub
-2026-06-07,2,PURR,10.00,6.17,96.1,A,8,Distrib,Capital Markets,-22.2,5.9,3.4,dark_pool_buying,8.53,finnhub
-2026-06-07,2,QUBT,10.00,6.40,96.1,A,5,Models,Computer Hardware,-59.6,4.7,14.8,neutral,9.96,finnhub
-2026-06-07,2,RCON,10.00,6.64,96.1,A,1,Energy,Oil & Gas Equipment & Services,-87.6,3.7,2.1,neutral,0.56,finnhub
-2026-06-07,2,META,9.95,6.05,95.9,A,5,Models,Internet Content & Information,-24.8,4.3,5.6,elevated_volume,593.00,polygon
-2026-06-07,2,PTC,9.95,6.05,95.9,A,5,Models,Software - Application,-36.7,4.3,9.1,neutral,137.00,finnhub
-2026-06-07,2,MCRP,9.61,5.99,94.9,A,3,Infra,Computer Hardware,-48.9,2.7,2.1,neutral,2.25,polygon
-2026-06-07,2,PYPL,9.61,5.99,94.9,A,8,Distrib,Credit Services,-46.8,3.0,8.8,neutral,41.29,finnhub
-2026-06-07,2,OSIS,9.11,5.90,93.6,A,2,Chips,Electronic Components,-36.2,4.3,20.6,low_volume,197.73,finnhub
-2026-06-07,2,SOUN,10.00,6.19,96.1,B,5,Models,Software - Application,-65.5,3.6,22.4,neutral,7.39,simulated
-2026-06-07,2,SRAD,10.00,6.09,96.1,B,5,Models,Software - Application,-56.3,6.9,5.3,neutral,13.90,simulated
-2026-06-07,2,STRK,10.00,6.41,96.1,B,5,Models,Software - Application,-44.2,1.5,1.0,elevated_volume,65.40,simulated
-2026-06-07,2,TME,10.00,6.40,96.1,B,5,Models,Internet Content & Information,-64.6,6.1,6.5,neutral,9.08,simulated
-2026-06-07,2,URG,10.00,6.17,96.1,B,1,Energy,Uranium,-22.9,4.8,11.2,dark_pool_buying,1.62,simulated
-2026-06-07,2,UUUU,10.00,6.52,96.1,B,1,Energy,Uranium,-45.8,3.6,13.7,elevated_volume,15.03,simulated
-2026-06-07,2,YXT,10.00,6.35,96.1,B,5,Models,Software - Application,-51.1,5.7,1.0,elevated_volume,0.54,simulated
-2026-06-07,2,CD,10.00,7.60,96.1,B,8,Distrib,Capital Markets,-85.1,3.8,50.0,dark_pool_buying,5.33,simulated
-2026-06-07,2,SMR,9.84,6.03,95.4,B,1,Energy,Specialty Industrial Machinery,-80.3,4.6,9.7,elevated_volume,10.50,simulated
-2026-06-07,2,TSAT,9.84,6.03,95.4,B,3,Infra,Communication Equipment,-23.8,4.1,12.0,dark_pool_buying,44.56,simulated
-2026-06-07,2,ZIP,9.78,6.02,95.3,B,5,Models,Internet Content & Information,-50.1,4.3,15.2,neutral,3.18,simulated
-2026-06-07,2,SNAP,9.56,5.98,94.8,B,5,Models,Internet Content & Information,-44.3,5.7,9.2,neutral,5.76,simulated
-2026-06-07,2,SDRL,9.50,5.97,94.6,B,1,Energy,Oil & Gas Drilling,-19.0,2.1,19.6,neutral,44.38,simulated
-2026-06-07,2,RUN,9.16,5.91,93.7,B,1,Energy,Solar,-37.6,4.6,24.8,neutral,13.36,simulated
+2026-06-07,1,AMCI,10.00,6.43,95.4,A,3,Infra,Computer Hardware,-78.6,4.7,7.3,dark_pool_buying,4.76,polygon
+2026-06-07,1,APPN,10.00,6.28,95.4,A,6,Apps,Software - Infrastructure,-45.8,6.9,18.9,dark_pool_buying,24.73,polygon
+2026-06-07,1,AREN,10.00,6.26,95.4,A,5,Models,Internet Content & Information,-81.8,3.5,20.0,neutral,1.32,polygon
+2026-06-07,1,BLKB,10.00,6.63,95.4,A,5,Models,Software - Application,-60.5,3.9,18.5,neutral,28.31,polygon
+2026-06-07,1,BTBT,10.00,6.12,95.4,A,3,Infra,Capital Markets,-61.1,4.2,11.1,neutral,1.64,polygon
+2026-06-07,1,BTQ,10.00,6.38,95.4,A,4,Data,Software - Infrastructure,-71.2,6.2,7.6,elevated_volume,4.07,polygon
+2026-06-07,1,CAN,10.00,6.51,95.4,A,3,Infra,Computer Hardware,-82.5,2.1,16.6,neutral,0.36,finnhub
+2026-06-07,1,CBOE,10.00,6.70,95.4,A,8,Distrib,Financial Data & Stock Exchanges,-23.0,1.6,8.1,dark_pool_buying,281.91,finnhub
+2026-06-07,1,CME,10.00,6.39,95.4,A,8,Distrib,Financial Data & Stock Exchanges,-19.3,2.1,5.5,dark_pool_buying,257.40,finnhub
+2026-06-07,1,CRWV,10.00,6.14,95.4,A,4,Data,Software - Infrastructure,-45.3,4.5,9.5,neutral,100.39,finnhub
+2026-06-07,1,DLXY,10.00,6.17,95.4,A,1,Energy,Oil & Gas Refining & Marketing,-92.6,5.0,1.0,elevated_volume,0.49,finnhub
+2026-06-07,1,ADBE,9.81,6.05,95.3,A,5,Models,Software - Application,-39.7,5.2,10.9,neutral,251.44,polygon
+2026-06-07,1,BBAI,9.65,6.02,95.0,A,5,Models,Information Technology Services,-52.9,5.2,15.6,neutral,4.20,polygon
+2026-06-07,1,COIN,9.48,5.99,94.7,A,8,Distrib,Financial Data & Stock Exchanges,-63.7,2.5,9.5,neutral,152.40,finnhub
+2026-06-07,1,BTDR,9.21,5.94,94.1,A,3,Infra,Software - Application,-32.5,6.7,29.5,elevated_volume,17.47,polygon
+2026-06-07,1,CRM,9.16,5.93,93.9,A,5,Models,Software - Application,-31.9,5.8,15.2,neutral,185.66,finnhub
+2026-06-07,1,CLB,9.10,5.92,93.8,A,1,Energy,Oil & Gas Equipment & Services,-34.2,4.8,33.3,neutral,12.93,finnhub
+2026-06-07,1,DQ,10.00,6.10,95.4,B,2,Chips,Semiconductor Equipment & Materials,-54.3,3.5,9.8,neutral,16.32,simulated
+2026-06-07,1,EPAM,10.00,7.02,95.4,B,3,Infra,Information Technology Services,-55.7,5.7,21.4,dark_pool_buying,98.04,simulated
+2026-06-07,1,GETY,10.00,6.44,95.4,B,5,Models,Internet Content & Information,-67.9,4.3,39.2,neutral,0.76,simulated
+2026-06-07,1,GFAI,10.00,6.63,95.4,B,5,Models,Security & Protection Services,-67.7,5.0,5.0,dark_pool_buying,0.46,simulated
+2026-06-07,1,GOLD,10.00,6.58,95.4,B,8,Distrib,Capital Markets,-37.7,5.4,15.7,neutral,39.62,simulated
+2026-06-07,1,GPN,10.00,6.19,95.4,B,8,Distrib,Specialty Business Services,-25.6,4.7,13.5,dark_pool_buying,66.32,simulated
+2026-06-07,1,GRAB,10.00,6.23,95.4,B,5,Models,Software - Application,-48.2,3.7,12.2,neutral,3.34,simulated
+2026-06-07,1,ICE,10.00,6.70,95.4,B,8,Distrib,Financial Data & Stock Exchanges,-24.2,2.6,7.2,dark_pool_buying,141.50,simulated
+2026-06-07,1,IMSR,10.00,6.17,95.4,B,1,Energy,Utilities - Regulated Electric,-72.1,5.2,5.6,elevated_volume,7.55,simulated
+2026-06-07,1,IOT,10.00,6.46,95.4,B,4,Data,Software - Infrastructure,-23.0,6.5,22.0,dark_pool_buying,34.80,simulated
+2026-06-07,1,FICO,9.43,5.98,94.6,B,5,Models,Software - Application,-41.0,5.5,14.3,neutral,1137.33,simulated
+2026-06-07,1,GIBO,9.37,5.97,94.4,B,5,Models,Internet Content & Information,-99.7,4.3,11.3,neutral,1.30,simulated
+2026-06-07,1,GRRR,9.32,5.96,94.3,B,4,Data,Software - Infrastructure,-32.1,6.3,13.6,dark_pool_buying,17.14,simulated
+2026-06-07,1,IDCC,9.16,5.93,93.9,B,5,Models,Software - Application,-34.0,5.0,20.3,neutral,260.64,simulated
