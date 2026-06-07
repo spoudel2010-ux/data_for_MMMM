@@ -62,3 +62,37 @@ date,chunk,ticker,norm_score,raw_score,percentile,conviction,layer,layer_name,in
 2026-06-07,1,GIBO,9.37,5.97,94.4,B,5,Models,Internet Content & Information,-99.7,4.3,11.3,neutral,1.30,simulated
 2026-06-07,1,GRRR,9.32,5.96,94.3,B,4,Data,Software - Infrastructure,-32.1,6.3,13.6,dark_pool_buying,17.14,simulated
 2026-06-07,1,IDCC,9.16,5.93,93.9,B,5,Models,Software - Application,-34.0,5.0,20.3,neutral,260.64,simulated
+2026-06-07,2,MNDY,10.00,6.20,96.5,A,4,Data,Software - Application,-72.7,6.5,15.3,neutral,85.74,polygon
+2026-06-07,2,MOMO,10.00,6.68,96.5,A,5,Models,Internet Content & Information,-35.6,3.2,12.7,dark_pool_buying,5.61,polygon
+2026-06-07,2,MU,10.00,6.06,96.5,A,2,Chips,Semiconductors,-20.0,6.0,2.9,neutral,864.01,polygon
+2026-06-07,2,NCNO,10.00,6.45,96.5,A,5,Models,Software - Application,-54.4,5.0,17.1,neutral,14.92,polygon
+2026-06-07,2,PANW,10.00,6.07,96.5,A,7,Security,Software - Infrastructure,-9.5,6.2,10.7,dark_pool_buying,272.05,finnhub
+2026-06-07,2,PSFE,10.00,6.41,96.5,A,4,Data,Software - Infrastructure,-53.0,3.8,28.9,neutral,6.90,finnhub
+2026-06-07,2,PURR,10.00,6.17,96.5,A,8,Distrib,Capital Markets,-22.2,5.9,3.4,dark_pool_buying,8.53,finnhub
+2026-06-07,2,QUBT,10.00,6.40,96.5,A,5,Models,Computer Hardware,-59.6,4.7,14.8,neutral,9.96,finnhub
+2026-06-07,2,RCON,10.00,6.64,96.5,A,1,Energy,Oil & Gas Equipment & Services,-87.6,3.7,2.1,neutral,0.56,finnhub
+2026-06-07,2,MANH,9.96,6.05,96.1,A,5,Models,Software - Application,-35.2,6.5,10.2,neutral,147.64,polygon
+2026-06-07,2,META,9.96,6.05,96.1,A,5,Models,Internet Content & Information,-24.8,4.3,5.6,elevated_volume,593.00,polygon
+2026-06-07,2,PTC,9.96,6.05,96.1,A,5,Models,Software - Application,-36.7,4.3,9.1,neutral,137.00,finnhub
+2026-06-07,2,MCRP,9.62,5.99,95.2,A,3,Infra,Computer Hardware,-48.9,2.7,2.1,neutral,2.25,polygon
+2026-06-07,2,PYPL,9.62,5.99,95.2,A,8,Distrib,Credit Services,-46.8,3.0,8.8,neutral,41.29,finnhub
+2026-06-07,2,RDDT,9.56,5.98,95.1,A,5,Models,Internet Content & Information,-35.9,5.8,9.3,neutral,173.45,finnhub
+2026-06-07,2,PSQH,9.51,5.97,94.9,A,5,Models,Software - Application,-81.7,3.9,1.0,neutral,0.52,finnhub
+2026-06-07,2,LYFT,9.17,5.91,94.2,A,5,Models,Software - Application,-44.4,5.8,21.7,neutral,13.65,polygon
+2026-06-07,2,OSIS,9.11,5.90,94.1,A,2,Chips,Electronic Components,-36.2,4.3,20.6,low_volume,197.73,finnhub
+2026-06-07,2,NA,9.00,5.88,93.6,A,2,Chips,Semiconductors,-85.7,3.9,11.7,low_volume,2.12,polygon
+2026-06-07,2,RELY,9.00,5.88,93.6,A,4,Data,Software - Infrastructure,-22.7,2.5,7.8,neutral,18.77,finnhub
+2026-06-07,2,SABR,10.00,6.17,96.5,B,4,Data,Software - Infrastructure,-51.5,5.4,21.4,neutral,1.66,simulated
+2026-06-07,2,SSTK,10.00,6.98,96.5,B,5,Models,Internet Content & Information,-47.6,1.9,12.5,dark_pool_buying,12.96,simulated
+2026-06-07,2,STEX,10.00,6.33,96.5,B,8,Distrib,Capital Markets,-90.6,5.4,13.7,neutral,1.08,simulated
+2026-06-07,2,TIGR,10.00,6.49,96.5,B,8,Distrib,Capital Markets,-65.5,2.8,9.5,neutral,4.48,simulated
+2026-06-07,2,TME,10.00,6.40,96.5,B,5,Models,Internet Content & Information,-64.6,6.1,6.5,neutral,9.08,simulated
+2026-06-07,2,VIA,10.00,6.58,96.5,B,5,Models,Software - Application,-72.7,5.0,22.9,elevated_volume,14.74,simulated
+2026-06-07,2,WB,10.00,6.45,96.5,B,5,Models,Internet Content & Information,-35.8,3.3,41.6,neutral,7.70,simulated
+2026-06-07,2,YXT,10.00,6.35,96.5,B,5,Models,Software - Application,-51.1,5.7,1.0,elevated_volume,0.54,simulated
+2026-06-07,2,SMR,9.84,6.03,95.6,B,1,Energy,Specialty Industrial Machinery,-80.3,4.6,9.7,elevated_volume,10.50,simulated
+2026-06-07,2,TSAT,9.84,6.03,95.6,B,3,Infra,Communication Equipment,-23.8,4.1,12.0,dark_pool_buying,44.56,simulated
+2026-06-07,2,SDRL,9.51,5.97,94.9,B,1,Energy,Oil & Gas Drilling,-19.0,2.1,19.6,neutral,44.38,simulated
+2026-06-07,2,VSAT,9.17,5.91,94.2,B,3,Infra,Communication Equipment,-22.5,4.8,19.5,elevated_volume,67.18,simulated
+2026-06-07,2,TENB,9.00,5.88,93.6,B,7,Security,Software - Infrastructure,-21.5,7.0,16.5,neutral,27.85,simulated
+2026-06-07,2,WBTN,9.00,5.88,93.6,B,5,Models,Internet Content & Information,-46.1,4.3,49.6,neutral,11.48,simulated
